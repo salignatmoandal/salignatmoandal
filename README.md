@@ -1,4 +1,4 @@
-# 💫 Hello Dear : 
+# 💫 What's up : 
 Core AI RAG Platform | LLM Design Engineer<br><br>I am an AI enthusiast specializing in designing and developing cutting-edge Retrieval-Augmented Generation (RAG) platforms powered by Large Language Models (LLMs). My expertise lies in creating robust architectures optimized for knowledge-enhanced text generation and retrieval systems.<br><br>🔍 What I Do:<br><br>Design architectures for RAG platforms with LLMs that efficiently combine retrieval and generation.<br>Develop and implement machine learning pipelines for enhanced information retrieval and text generation.<br>Optimize language models to improve response accuracy, speed, and overall efficiency.<br>Work with advanced technologies such as Python, PyTorch, TensorFlow, and integrate GPT APIs to build intelligent, adaptive systems.<br>
 
 
