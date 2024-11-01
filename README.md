@@ -1,5 +1,5 @@
 # 💫 What's up : 
-Full-stack Engineer | LLM Design Engineer
+Wannabe Full-stack Engineer | LLM Design Engineer
 
 I am an AI enthusiast specializing in designing and developing cutting-edge Retrieval-Augmented Generation (RAG) platforms powered by Large Language Models (LLMs). With a keen interest in SaaS solutions, I aim to create scalable and efficient applications that enhance information retrieval and text generation, leveraging my skills in both front-end and back-end development.
 
