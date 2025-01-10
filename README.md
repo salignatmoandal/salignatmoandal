@@ -1,16 +1,7 @@
 # 💫 What's up : 
-Wannabe Software Engineer | LLM Design Engineer enthousiast
+Wannabe Software Engineer | LLM Design Engineer enthousiast 
 
 I am an AI enthusiast specializing in designing and developing cutting-edge Retrieval-Augmented Generation (RAG) platforms powered by Large Language Models (LLMs). With a keen interest in IaC/SaaS solutions, I aim to create scalable and efficient applications that enhance information retrieval and text generation, leveraging my skills in both front-end and back-end development.
-
-# What I do : 
- - Design and Develop RAG Platforms: Create architectures that effectively integrate retrieval and generation using Large Language Models, ensuring high performance and accuracy in knowledge extraction.
-- Build Scalable SaaS Applications: Develop robust and efficient applications that leverage cloud technologies to deliver seamless user experiences, facilitating real-time data access and processing.
-- Implement Machine Learning Pipelines: Design and optimize machine learning workflows to enhance information retrieval and improve the accuracy of text generation, enabling smarter and more responsive applications.
-- Full-stack Development: Utilize my expertise in front-end technologies (such as React and Next.js) and back-end frameworks (including Node.js and Prisma) to build cohesive, high-performance applications.
-- Collaborate and Innovate: Work closely with cross-functional teams to understand user needs and continuously iterate on product features, ensuring that solutions remain cutting-edge and aligned with industry trends.
-- Stay Current with AI Advancements: Actively engage with the latest developments in AI and machine learning, applying new techniques and tools to enhance my projects and contribute to the broader AI community.
-
 
 
 # 💻 Tech Stack:
