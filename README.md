@@ -1,5 +1,7 @@
+Welcome to my world.
 
-welcome to my world, 
- Software Engineer LLM Designer  | AI Platform | Distributed System Inference AI | Design Engineer 
+I’m a Software Engineer & LLM Designer—crafting AI platforms, distributed systems, and creative tools at the intersection of code and imagination.
 
-Building TerraLambda, gomon and Rayon for fun. 
+Currently building TerraLambda (serverless magic), Gomon (Go monitoring like a ninja), Rayon (embedded systems powered by AI), and Noodl (mindmapping meets AI creativity).
+
+Code. Design. Repeat.
