@@ -4,6 +4,6 @@ I’m a Software Engineer & LLM Designer—crafting AI platforms, distributed sy
 
 Currently building TerraLambda (serverless magic), Gomon(Go monitoring like a ninja) and Noodl (mindmapping meets AI creativity).
 
-  building in a side https://www.noodl.world/
+ exploring graph theory with https://www.noodl.world/
 
 Code. Design. Repeat.
