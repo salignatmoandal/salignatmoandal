@@ -8,6 +8,6 @@ Turning ideas into systems, one node at a time.
  
 Exploring **graph theory, cognition, and intelligent design** through real systems that think and evolve
 
-Code. Design. Repeat.
+
 open source enthusiast
 
