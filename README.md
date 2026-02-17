@@ -1,6 +1,6 @@
 Welcome to my world.
 
-I’m a Software Engineer & LLM Designer—crafting AI platforms, distributed systems, and creative tools at the intersection of code and imagination.
+Software Engineer working on AI infrastructure and distributed systems.
 
 **Profile**
 - Job : Software Engineer & AI Infrastructure
@@ -8,6 +8,3 @@ I’m a Software Engineer & LLM Designer—crafting AI platforms, distributed sy
 - works : https://www.whoismawen.com/
 
 open source enthusiast
-
-
-
